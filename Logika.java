@@ -10,7 +10,6 @@ public class Logika {
         //OR
         hasil = a || b;
         System.out.println(hasil);
-
     }
 
 }
