@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SwitchStatement {
+public class IFStatement {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
