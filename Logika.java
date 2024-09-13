@@ -3,13 +3,10 @@ public class Logika {
         boolean a = true;
         boolean b = false;
 
-        //AND
-        boolean hasil = a && b;
-        System.out.println(hasil);
+        boolean hasilAnd = a && b;
+        System.out.println("a AND b: " + hasilAnd);  // Perbaikan penulisan string
 
-        //OR
-        hasil = a || b;
-        System.out.println(hasil);
+        boolean hasilOr = a || b;
+        System.out.println("a OR b: " + hasilOr);  // Perbaikan kesalahan pengetikan dari DR menjadi a OR
     }
-
 }

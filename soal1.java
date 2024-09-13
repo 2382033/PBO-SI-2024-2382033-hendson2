@@ -1,4 +1,4 @@
-public class soal1 import java.util.Scanner;
+import java.util.Scanner;
 
 public class soal1 {
     /**
@@ -19,5 +19,4 @@ public class soal1 {
 
         scanner.close();
     }
-}{
 }
